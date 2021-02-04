@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_03_array_method/bai_tap/GopMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array_method/bai_tap/MaxOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array_method/bai_tap/MinOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array_method/bai_tap/ThemPhanTu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array_method/bai_tap/XoaPhanTuKhoiMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class_object/thuc_hanh/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,26 +53,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.GopMang">
-    <configuration name="ChuyenNhietDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_array_method.thuc_hanh.ChuyenNhietDo" />
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.Fan" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_array_method.thuc_hanh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_array_method.thuc_hanh.FindMin" />
-      <module name="Kiên Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_03_array_method.thuc_hanh.*" />
+          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThemPhanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_array_method.bai_tap.ThemPhanTu" />
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.QuadraticEquation" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_array_method.bai_tap.*" />
+          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XoaPhanTuKhoiMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_array_method.bai_tap.XoaPhanTuKhoiMang" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_class_object.thuc_hanh.Rectangle" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_array_method.bai_tap.*" />
+          <option name="PATTERN" value="_04_class_object.thuc_hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.StopWatch" />
+      <module name="Kiên Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.QuadraticEquation" />
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.GopMang" />
-        <item itemvalue="Application.ThemPhanTu" />
-        <item itemvalue="Application.XoaPhanTuKhoiMang" />
-        <item itemvalue="Application.FindMin" />
-        <item itemvalue="Application.ChuyenNhietDo" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612164370451</updated>
-      <workItem from="1612164373128" duration="22169000" />
+      <workItem from="1612164373128" duration="31659000" />
     </task>
     <servers />
   </component>
@@ -159,22 +158,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1612401362979">
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1612422832598">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612401362979" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1612401362978">
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612422832598" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1612422832597">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1612401362978" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1612401362976">
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1612422832597" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1612422832596">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1612401362976" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1612401362978">
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1612422832596" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1612422832597">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1612401362978" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1612422832597" />
     <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1612321705837">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
@@ -191,9 +190,17 @@
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1612321705835" />
+    <state x="357" y="163" width="566" height="442" key="RefactorJ.ExtractClass" timestamp="1612409972903">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="357" y="163" width="566" height="442" key="RefactorJ.ExtractClass/0.23.1280.727@0.23.1280.727" timestamp="1612409972903" />
     <state x="341" y="23" width="598" height="735" key="find.popup" timestamp="1612314376577">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="341" y="23" width="598" height="735" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1612314376577" />
+    <state x="305" y="74" width="670" height="676" key="search.everywhere.popup" timestamp="1612424680672">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="305" y="74" width="670" height="676" key="search.everywhere.popup/0.23.1280.727@0.23.1280.727" timestamp="1612424680672" />
   </component>
 </project>
