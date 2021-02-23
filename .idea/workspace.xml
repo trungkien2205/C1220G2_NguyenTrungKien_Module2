@@ -20,10 +20,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class_object/bai_tap/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class_object/thuc_hanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_access_modifier/thuc_hanh/AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_access_modifier/thuc_hanh/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/cricle_cylinder/Cricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/cricle_cylinder/CricleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/cricle_cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/cricle_cylinder/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point2D_point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point2D_point3D/Point2DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point2D_point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point2D_point3D/Point3DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point_movablePoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point_movablePoint/MovablePointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point_movablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/point_movablePoint/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/triangle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/triangle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/bai_tap/triangle/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/CricleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +83,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,14 +101,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable" />
   </component>
-  <component name="RunManager" selected="Application.Fan">
-    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.Fan" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_06_inheritance.bai_tap.triangle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/colorable" />
+      <recent name="$PROJECT_DIR$/src/_07_abstractclass_interface/bai_tap/Resizeable" />
+      <recent name="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/Resizeable" />
+      <recent name="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run (1)">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_abstractclass_interface.thuc_hanh.animal_interfaceEdible.AbstractAndInterfaceTests" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
+          <option name="PATTERN" value="_07_abstractclass_interface.thuc_hanh.animal_interfaceEdible.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GopMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_array_method.bai_tap.GopMang" />
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_abstractclass_interface.thuc_hanh.comparator.CircleComparatorTest" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_03_array_method.bai_tap.*" />
+          <option name="PATTERN" value="_07_abstractclass_interface.thuc_hanh.comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.QuadraticEquation" />
+    <configuration name="ComparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_abstractclass_interface.thuc_hanh.comparable.ComparableCircleTest" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
+          <option name="PATTERN" value="_07_abstractclass_interface.thuc_hanh.comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_class_object.thuc_hanh.Rectangle" />
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_abstractclass_interface.bai_tap.colorable.Run" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_04_class_object.thuc_hanh.*" />
+          <option name="PATTERN" value="_07_abstractclass_interface.bai_tap.colorable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_class_object.bai_tap.StopWatch" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_abstractclass_interface.thuc_hanh.Resizeable.Run" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_04_class_object.bai_tap.*" />
+          <option name="PATTERN" value="_07_abstractclass_interface.thuc_hanh.Resizeable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fan" />
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.QuadraticEquation" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.GopMang" />
+        <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.CircleComparatorTest" />
+        <item itemvalue="Application.ComparableCircleTest" />
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +200,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612164370451</updated>
-      <workItem from="1612164373128" duration="31659000" />
+      <workItem from="1612164373128" duration="32394000" />
+      <workItem from="1613956986609" duration="12000" />
+      <workItem from="1613957036457" duration="15616000" />
     </task>
     <servers />
   </component>
@@ -156,48 +219,69 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1612422832598">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1614082423951">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612422832598" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1612422832597">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725@0.23.1280.725" timestamp="1614082423951" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1614075079831">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1612422832597" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1612422832596">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1614075079831" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612426512000" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1614075079829">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1612422832596" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1612422832597">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1614075079829" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1612426511999" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1614075079828">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1612422832597" />
-    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1612321705837">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1614075079828" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1612426511997" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1614075079830">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1614075079830" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1612426511999" />
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1612715838104">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.23.1280.725@0.23.1280.725" timestamp="1612715838104" />
     <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612321705837" />
-    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1612321705835">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1612715838093">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.center/0.23.1280.725@0.23.1280.725" timestamp="1612715838093" />
     <state width="1238" height="226" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1612321705835" />
-    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1612321705834">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1612715838082">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.left/0.23.1280.725@0.23.1280.725" timestamp="1612715838082" />
     <state width="1238" height="226" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1612321705834" />
-    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1612321705835">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1612715838095">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.725@0.23.1280.725" timestamp="1612715838095" />
     <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1612321705835" />
     <state x="357" y="163" width="566" height="442" key="RefactorJ.ExtractClass" timestamp="1612409972903">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="357" y="163" width="566" height="442" key="RefactorJ.ExtractClass/0.23.1280.727@0.23.1280.727" timestamp="1612409972903" />
+    <state x="263" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612426507633">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="263" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.727@0.23.1280.727" timestamp="1612426507633" />
     <state x="341" y="23" width="598" height="735" key="find.popup" timestamp="1612314376577">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="341" y="23" width="598" height="735" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1612314376577" />
+    <state x="483" y="168" key="refactoring.ChangeSignatureDialog" timestamp="1614052591001">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="483" y="168" key="refactoring.ChangeSignatureDialog/0.23.1280.725@0.23.1280.725" timestamp="1614052591001" />
     <state x="305" y="74" width="670" height="676" key="search.everywhere.popup" timestamp="1612424680672">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
