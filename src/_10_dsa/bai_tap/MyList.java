@@ -1,4 +1,4 @@
-package _10_DSA.bai_tap;
+package _10_dsa.bai_tap;
 
 import java.util.Arrays;
 
@@ -95,4 +95,6 @@ public class MyList <E> {
         }
         size=0;
     }
+
+
 }

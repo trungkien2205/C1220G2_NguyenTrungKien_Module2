@@ -20,14 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/bai_tap/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/bai_tap/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/bai_tap/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/ReverseIntegerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/ReverseStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/bai_tap/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/bai_tap/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/bai_tap/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/bai_tap/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +88,13 @@
       <recent name="$PROJECT_DIR$/src/_07_abstractclass_interface/thuc_hanh/comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_DSA.thuc_hanh.MyLinkedListTest" />
+  <component name="RunManager" selected="Application.ReverseStringArray">
+    <configuration name="GenericStackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_stack_queue.thuc_hanh.GenericStackClient" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_DSA.thuc_hanh.*" />
+          <option name="PATTERN" value="_11_stack_queue.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +102,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_DSA.thuc_hanh.MyListTest" />
+    <configuration name="LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_stack_queue.thuc_hanh.LinkedListQueueClient" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_DSA.thuc_hanh.*" />
+          <option name="PATTERN" value="_11_stack_queue.thuc_hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_stack_queue.bai_tap.stack.ReverseIntegerArray" />
+      <module name="Kiên Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_stack_queue.bai_tap.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_stack_queue.bai_tap.stack.ReverseStringArray" />
+      <module name="Kiên Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_stack_queue.bai_tap.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,56 +142,25 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_DSA.bai_tap.Test" />
+      <option name="MAIN_CLASS_NAME" value="_10_dsa.bai_tap.Test" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_DSA.bai_tap.*" />
+          <option name="PATTERN" value="_10_dsa.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kiên Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_08_clean_code.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_08_clean_code.bai_tap" />
-      <option name="MAIN_CLASS_NAME" value="_08_clean_code.bai_tap.TennisGameTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TennisGameTest.checkAllScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kiên Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_08_clean_code.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_08_clean_code.bai_tap" />
-      <option name="MAIN_CLASS_NAME" value="_08_clean_code.bai_tap.TennisGameTest" />
-      <option name="METHOD_NAME" value="checkAllScores" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseStringArray" />
+        <item itemvalue="Application.ReverseIntegerArray" />
+        <item itemvalue="Application.LinkedListQueueClient" />
+        <item itemvalue="Application.GenericStackClient" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.MyListTest" />
-        <item itemvalue="JUnit.TennisGameTest" />
-        <item itemvalue="JUnit.TennisGameTest.checkAllScores" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +176,7 @@
       <updated>1612164370451</updated>
       <workItem from="1612164373128" duration="32394000" />
       <workItem from="1613956986609" duration="12000" />
-      <workItem from="1613957036457" duration="32816000" />
+      <workItem from="1613957036457" duration="44544000" />
     </task>
     <servers />
   </component>
@@ -187,10 +196,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1614082423951">
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1614243275407">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725@0.23.1280.725" timestamp="1614082423951" />
+    <state x="453" y="99" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725@0.23.1280.725" timestamp="1614243275407" />
     <state x="389" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614136100033">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
@@ -199,25 +208,25 @@
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state x="339" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.725@0.23.1280.725" timestamp="1614137371817" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1614242521252">
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1614331032268">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1614242521252" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1614331032268" />
     <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1612426512000" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1614242521251">
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1614331032267">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1614242521251" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1614331032267" />
     <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1612426511999" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1614242521251">
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1614331032266">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1614242521251" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1614331032266" />
     <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1612426511997" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1614242521252">
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1614331032268">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1614242521252" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1614331032268" />
     <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1612426511999" />
     <state width="1238" height="225" key="GridCell.Tab.1.bottom" timestamp="1614137560962">
       <screen x="0" y="23" width="1280" height="725" />
@@ -255,6 +264,10 @@
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="263" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.727@0.23.1280.727" timestamp="1612426507633" />
+    <state x="428" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614309762550">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="428" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.725@0.23.1280.725" timestamp="1614309762550" />
     <state x="692" y="159" width="535" height="510" key="extract.method.dialog" timestamp="1614236618307">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
@@ -267,10 +280,10 @@
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state x="483" y="168" key="refactoring.ChangeSignatureDialog/0.23.1280.725@0.23.1280.725" timestamp="1614052591001" />
-    <state x="305" y="74" width="670" height="675" key="search.everywhere.popup" timestamp="1614242477505">
+    <state x="305" y="74" width="670" height="675" key="search.everywhere.popup" timestamp="1614563521359">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
-    <state x="305" y="74" width="670" height="675" key="search.everywhere.popup/0.23.1280.725@0.23.1280.725" timestamp="1614242477505" />
+    <state x="305" y="74" width="670" height="675" key="search.everywhere.popup/0.23.1280.725@0.23.1280.725" timestamp="1614563521359" />
     <state x="305" y="74" width="670" height="676" key="search.everywhere.popup/0.23.1280.727@0.23.1280.727" timestamp="1612424680672" />
   </component>
 </project>

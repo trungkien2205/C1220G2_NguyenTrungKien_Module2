@@ -1,4 +1,4 @@
-package _10_DSA.thuc_hanh;
+package _10_dsa.thuc_hanh;
 
 import java.util.Arrays;
 

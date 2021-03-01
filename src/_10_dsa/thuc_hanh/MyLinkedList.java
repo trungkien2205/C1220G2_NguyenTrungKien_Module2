@@ -1,6 +1,4 @@
-package _10_DSA.thuc_hanh;
-
-import javax.xml.soap.Node;
+package _10_dsa.thuc_hanh;
 
 public class MyLinkedList {
     private Node head;
