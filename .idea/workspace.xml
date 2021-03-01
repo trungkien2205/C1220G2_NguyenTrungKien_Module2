@@ -20,28 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/ReverseIntegerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/stack/ReverseStringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/thuc_hanh/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/bai_tap/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyLinkedListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kiên Module 2/_10_DSA/thuc_hanh/MyListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/bai_tap/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/bai_tap/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/bai_tap/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/bai_tap/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_10_DSA/thuc_hanh/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_dsa/thuc_hanh/MyListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +155,8 @@
       <updated>1612164370451</updated>
       <workItem from="1612164373128" duration="32394000" />
       <workItem from="1613956986609" duration="12000" />
-      <workItem from="1613957036457" duration="44544000" />
+      <workItem from="1613957036457" duration="44777000" />
+      <workItem from="1614570835323" duration="10000" />
     </task>
     <servers />
   </component>
