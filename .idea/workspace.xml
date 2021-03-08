@@ -20,62 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_stack_queue/bai_tap/Map/CheckFrequencyOfLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/bai_tap/arraylist_linkedlist_javacollection/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/bai_tap/arraylist_linkedlist_javacollection/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/thuc_hanh/comparable_comparator/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/thuc_hanh/comparable_comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/thuc_hanh/danh_sach_sinh_vien/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/thuc_hanh/hashmap_hashset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_java_collection_framework/thuc_hanh/hashmap_hashset/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_thuat_toan_tim_kiem/bai_tap/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_thuat_toan_tim_kiem/thuc_hanh/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_14_thuat_toan_sap_xep/thuc_hanh/BubbleSortByStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_14_thuat_toan_sap_xep/thuc_hanh/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/META-INF/Kiên Module 2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/bai_tap/HienThiHinh 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/bai_tap/HienThiSNTBeHon100 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/bai_tap/HienThiSoNguyenTo 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/thuc_hanh/KiemTraSoNguyenTo 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/thuc_hanh/ThietKeMenu 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/thuc_hanh/TimUocChung 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_02_loop/thuc_hanh/TinhTienLai 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_04_class_object/bai_tap/Fan 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_04_class_object/bai_tap/QuadraticEquation 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_04_class_object/bai_tap/StopWatch 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_04_class_object/bai_tap/Watch 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_04_class_object/thuc_hanh/Rectangle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/bai_tap/cricle_cylinder/CylinderTest 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/bai_tap/point2D_point3D/Point2D 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/bai_tap/point_movablePoint/Point 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/bai_tap/triangle/TriangleTest 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Circle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_06_inheritance/thuc_hanh/he_cac_doi_tuong_hinh_hoc/ShapeTest 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Circle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Rectangle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Resizeable 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Run 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Shape 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/Resizeable/Square 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Circle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Colorable 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Rectangle 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Run 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Shape 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/bai_tap/colorable/Square 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/AbstractAndInterfaceTests 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Animal 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Apple 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Chicken 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Edible 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Fruit 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Orange 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/animal_interfaceEdible/Tiger 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/comparable/ComparableCircleTest 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/comparable/Shape 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kiên Module 2/_07_abstractclass_interface/thuc_hanh/comparator/CircleComparatorTest 2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,15 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,6 +178,7 @@
       <workItem from="1614654910612" duration="74000" />
       <workItem from="1614655012332" duration="4545000" />
       <workItem from="1614666596124" duration="14586000" />
+      <workItem from="1614992423402" duration="1209000" />
     </task>
     <servers />
   </component>
