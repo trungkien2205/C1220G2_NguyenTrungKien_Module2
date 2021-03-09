@@ -59,20 +59,6 @@ public class Triangle extends Shape {
                 '}';
     }
 
-    public class IllegalTriangleException extends Exception {
-        private double perimeter;
-
-
-        public IllegalTriangleException(double perimeter) {
-            super( "The sum of any two sides is greater than the other side" +  perimeter);
-            this.perimeter = perimeter;
-        }
-
-        public double getPerimeter() {
-            return perimeter;
-        }
-    }
-
     public static void main(String[] args) throws IllegalTriangleException {
 
         Scanner scanner = new Scanner(System.in);
