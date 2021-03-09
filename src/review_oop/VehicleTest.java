@@ -22,14 +22,7 @@ public class VehicleTest {
         int chose = Integer.parseInt(scanner.nextLine());
         switch (chose) {
             case 1:
-                System.out.println("Nhập tên xe");
-                String name = scanner.nextLine();
-                System.out.println("Nhập dung tích xylanh:");
-                int capa = Integer.parseInt(scanner.nextLine());
-                System.out.println("Nhập giá ");
-                double price = Integer.parseInt(scanner.nextLine());
-                Vehicle myCar = new Vehicle(name, capa, price);
-                carList.add((myCar));
+                addVehicle(carList, scanner);
                 break;
             case 2:
                 for (Vehicle car : carList) {
@@ -41,5 +34,16 @@ public class VehicleTest {
                 break;
 
         }
+    }
+
+    private static void addVehicle(ArrayList<Vehicle> carList, Scanner scanner) {
+        System.out.println("Nhập tên xe");
+        String name = scanner.nextLine();
+        System.out.println("Nhập dung tích xylanh:");
+        int capa = Integer.parseInt(scanner.nextLine());
+        System.out.println("Nhập giá ");
+        double price = Integer.parseInt(scanner.nextLine());
+        Vehicle myCar = new Vehicle(name, capa, price);
+        carList.add((myCar));
     }
 }

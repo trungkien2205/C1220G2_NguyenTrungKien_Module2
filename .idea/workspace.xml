@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdf2cfe-10da-4f1a-9f02-e9af3476a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_15_debug_exception/bai_tap/IllegalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review_oop/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review_oop/VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review_oop/EnrollStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review_oop/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_15_debug_exception/bai_tap/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_debug_exception/bai_tap/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/review_oop/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review_oop/VehicleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <recent name="_06_inheritance.bai_tap.triangle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VehicleTest">
+  <component name="RunManager" selected="Application.EnrollStudent">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_15_debug_exception.thuc_hanh.ArrayExample" />
       <module name="Kiên Module 2" />
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_debug_exception.thuc_hanh.LinearEquationResolver" />
+    <configuration name="EnrollStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review_oop.EnrollStudent" />
       <module name="Kiên Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_debug_exception.thuc_hanh.*" />
+          <option name="PATTERN" value="review_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnrollStudent" />
         <item itemvalue="Application.VehicleTest" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.LinearEquationResolver" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,7 @@
       <workItem from="1614654910612" duration="74000" />
       <workItem from="1614655012332" duration="4545000" />
       <workItem from="1614666596124" duration="14586000" />
-      <workItem from="1614992423402" duration="13274000" />
+      <workItem from="1614992423402" duration="18918000" />
     </task>
     <servers />
   </component>
